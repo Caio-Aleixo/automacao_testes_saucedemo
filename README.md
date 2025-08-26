@@ -64,8 +64,6 @@ Este projeto utiliza GitHub Actions para integração contínua. Os testes são 
 
 Você pode ver as execuções na aba **[Actions](https://github.com/Caio-Aleixo/automacao_testes_saucedemo/actions)** do repositório.
 
-*(Sugestão: tire um print de um relatório de testes e adicione aqui!)*
-
 ---
 
 *Projeto desenvolvido como guia e peça de portfólio na área de Quality Assurance.*
